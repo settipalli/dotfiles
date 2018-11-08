@@ -4,5 +4,7 @@
 
 ```
      dotfiles
-    └── vim
+        └── vimrc
+        └── vim
+
 ```
